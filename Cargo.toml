@@ -1,0 +1,11 @@
+[package]
+name = "cargo-rpc"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "快速创建RPC脚手架"
+authors = ["axum.rs <team@axum.rs>"]
+repository = "https://github.com/aceaxum/cargo-rpc.git"
+homepage = "https://axum.rs"
+
+[dependencies]
